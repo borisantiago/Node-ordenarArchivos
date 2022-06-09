@@ -28,7 +28,7 @@ for(var i =0; i<files.length; i++){
 const fs = require("fs");
 
 
-const path = "C:\\OrdenarArchivos\\assets"
+const path = "C:\\OrdenarBT\\assets"
 
   if (fs.existsSync(path)) {
     var crearCarpetas = [
